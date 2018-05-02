@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1525301245 source:c:\users\teddy\desktop\ejecutanding\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1525301916 source:c:\users\teddy\desktop\ejecutanding\funciones.c
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+
+1525237665 c:\users\teddy\desktop\ejecutanding\funciones.h
+
